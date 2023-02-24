@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on being a Game Developer
 - 🌱 I’m currently learning IT Coding
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Developing games
 - 🤔 I’m looking for help with Computational Thinking
 - 💬 Ask me about It support related questions
 - 📫 How to reach me: @vusumuzinjabulo2@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: 
 - ⚡ Fun fact: I'm taller than both my parents
 -->
